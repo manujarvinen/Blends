@@ -18,3 +18,9 @@ Various .blend files
 **Hair_Length_by_Image_Texture.blend**
 
 ![Imgur](https://i.imgur.com/JUvkL6f.jpg)
+
+---------------------
+
+**Hat_Ribbon_Cloth_Sim_And_Modelled.blend**
+
+![Imgur](https://i.stack.imgur.com/bD97v.png)
